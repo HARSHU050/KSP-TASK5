@@ -13,6 +13,11 @@ console.log(a**b);
 // assignment operators
 console.log(a+=b);
 console.log(a-=b);
+//unary operators
+console.log(++a);
+console.log(b++);
+console.log(++b);
+console.log(a++);
 // same follows for *=,/=,%=,**= 
 //COMPARISON OPERATOR
 console.log(b==h);//"=="compares the value irrespective of data type
